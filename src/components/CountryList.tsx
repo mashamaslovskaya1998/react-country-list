@@ -1,5 +1,3 @@
-import { userInfo } from "os";
-import React from "react";
 import { ICountry } from "../types";
 import CountryItem from "./CountryItem";
 
